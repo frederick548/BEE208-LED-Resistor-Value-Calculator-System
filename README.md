@@ -1,8 +1,11 @@
-# BEE208-LED-Resistor-Value-Calculator-System
+# BEE208-LED-Resistor-Value-Calculator-System  
 
-**PROJECT TITLE: LED RESISTOR VALUE CALCULATOR SYSTEM**
 
-NAMES                                   INDEX NUMBERS
+**PROJECT TITLE: LED RESISTOR VALUE CALCULATOR SYSTEM**  
+
+
+NAMES                                   INDEX NUMBERS  
+
 AIDOO FREDERICK ANSON                    01243029B  
 
 ISSAHAKU ABDULLAH                        01244271B  
@@ -11,10 +14,14 @@ TORGBO COMFORT                           01241532B
 
 DIVINE LOVE SOWAH                        01243141B  
 
-AWINDINABA JUSTICE                       01244230B
-KYAMASI OWUSU AGYEMANG                   01243999B
-IVAN ASAFO ADJEI                         01243590B
-STEPHEN EHWEI                             
+AWINDINABA JUSTICE                       01244230B  
+
+KYAMASI OWUSU AGYEMANG                   01243999B  
+
+IVAN ASAFO ADJEI                         01243590B  
+
+STEPHEN EHWEI  
+
 **PROBLEM STATEMENT**
 Students and beginners in electronics often choose LED resistors by guessing or copying values from other circuits. This can cause the LED to draw too much current or appear too dim. A simple software tool is needed to calculate the correct resistor value and provide basic safety feedback before the circuit is built.
 **AIM OF THE PROJECT**
