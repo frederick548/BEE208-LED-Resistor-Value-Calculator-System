@@ -97,7 +97,9 @@ ELSE
 END IF  
 
 **FLOWCHART IMAGE**  
-<img width="390" height="792" alt="Screenshot 2026-07-08 141942" src="https://github.com/user-attachments/assets/73153617-089d-4f9a-8803-cf8c426acc38" />  
+
+[FLOW CHART.pdf](https://github.com/user-attachments/files/29927057/FLOW.CHART.pdf)
+
 
 **EXPLANATION OF THE C++ CONCEPT USED**  
 Instead of having data scattered everywhere, we used a LEDCircuit class. Think of a class like a blank blueprint for a circuit card, and an object as the actual card you build from it. It keeps all the information for a single circuit—like its name, voltages, and results—neatly locked together in one safe box.  
