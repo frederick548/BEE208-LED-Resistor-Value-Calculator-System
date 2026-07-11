@@ -115,11 +115,36 @@ Standard code lists usually require you to know the exact number of items ahead 
 These are the decision junctions in our code. They act like traffic police officers checking the numbers. If a user types in a bad number, the if statement catches it and flags an error. If the numbers look good, the else path lets the math calculation run normally.  
 
 **SCREENSHOTS OF THE PROGRAMME OUTPUT**  
+
+This proves your Ohm's Law and power formulas are working perfectly.  
+
 <img width="672" height="472" alt="Screenshot 2026-07-10 113216" src="https://github.com/user-attachments/assets/cb3717e6-d709-4f84-943e-227ffb8728d6" />  
+
+This proves your safety classification rules work
 
 <img width="932" height="330" alt="Screenshot 2026-07-10 113432" src="https://github.com/user-attachments/assets/f96d2602-395c-4383-9246-48994d885bbc" />  
 
+This proves your system actively rejects wrong electrical inputs and prevents system crashes.
+
 <img width="1137" height="81" alt="Screenshot 2026-07-10 113617" src="https://github.com/user-attachments/assets/590ef247-4723-4430-b4f5-1b195c3ab615" />  
+
+**CHALLENGES FACED AND SOLUTION**  
+
+**FIRST PROBLEM: HANDLING MISTAKES AND BAD INPUT**  
+
+**What went wrong:** At first, if a user typed in impossible numbers (like a supply voltage that was too low for the LED), the program got confused. It would either get stuck spinning in an endless loop forever, or it would completely skip the rest of the student's circuits.  
+
+
+**How we fixed it:** We changed our flowchart and code logic. Now, if someone types a wrong number, the program immediately labels it an "Invalid Design" and moves straight to the loop counter. This lets the program keep running smoothly so the user can calculate their remaining circuits without the app crashing.  
+
+**CONCLUSION**  
+
+This project successfully builds an easy-to-use software tool for calculating LED resistors using C++.
+
+Instead of guessing resistor values—which can easily burn out real electronics or make components too dim—our program uses standard electrical laws to find the exact parts needed in seconds.
+
+By adding smart features like input validation (to catch user mistakes before they cause problems), a safety warning system for high currents, and automatic text file saving, our team created a reliable system. It perfectly bridges the gap between electrical engineering theories and practical computer programming, giving students a safe way to plan out their hardware designs.
+
 
 
 
