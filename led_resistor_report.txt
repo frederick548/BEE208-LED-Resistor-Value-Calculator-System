@@ -1,0 +1,29 @@
+==================================================
+       FINAL LED RESISTOR CALCULATOR REPORT        
+==================================================
+Total Circuits Processed: 3
+
+Circuit #1
+LED Name: Red Indicator LED
+Supply Voltage: 5.000000
+Forward Voltage: 2.000000
+Desired Current: 20.000000
+Recommended Resistor: 150.000000 ohms
+Minimum Resistor Power: 0.060000 W
+Design Status: Design Accepted
+--------------------------------------------------
+Circuit #2
+LED Name: High Power White LED
+Supply Voltage: 12.000000
+Forward Voltage: 3.400000
+Desired Current: 40.000000
+Recommended Resistor: 215.000000 ohms
+Minimum Resistor Power: 0.344000 W
+Design Status: Warning: LED current may be too high for a standard LED.
+--------------------------------------------------
+Circuit #3
+LED Name: (This is > 30mA)
+Supply Voltage: 0.000000
+Forward Voltage: 0.000000
+Design Status: Invalid Design
+--------------------------------------------------
