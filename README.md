@@ -12,7 +12,7 @@
 | DIVINE LOVE SOWAH | 01243141B |
 | AWINDINABA JUSTICE | 01244230B |
 | KYAMASI OWUSU AGYEMANG | 01240187B |
-| IVAN ASAFO ADJEI | 01243590B |
+| RICHMOND AGYEKUM | 01243243B |
 | SEDZRO KELVIN | 01243999B |
 | ANTWI JULIOS | 01242969B |
 | STEPHEN EHWEI | 01242650B |
@@ -168,6 +168,23 @@ This proves your system actively rejects wrong electrical inputs and prevents sy
 
 
 **How we fixed it:** We changed our flowchart and code logic. Now, if someone types a wrong number, the program immediately labels it an "Invalid Design" and moves straight to the loop counter. This lets the program keep running smoothly so the user can calculate their remaining circuits without the app crashing.  
+
+# ROLE EVERY INDIVIDUAL IS SUPPOSED TO PLAY
+
+| Student | Suggested Role | Core Responsibility |
+| :--- | :--- | :--- |
+| SEDZRO KELVIN | Project lead | Keeps the team organized, tracks deadlines, and manages the project workflow |
+| AWINDINABA JUSTICE | Algorithm writer | Writes the step-by-step logic recipe in plain text (`algorithm.md`) |
+| TORGBO COMFORT | Pseudocode writer | Turns the text recipe into half-English, half-code logic structures (`pseudocode.md`) |
+| DIVINE LOVE SOWAH | Flowchart designer | Draws the visual map showing the exact path the numbers and decisions travel |
+| ANTWI JULIOS | C++ programmer | Builds the main code blueprint and adds the rules to catch input errors |
+| RICHMOND AGYEKUM | C++ programmer | Codes the smart history list, the execution loops, and the file-saving features |
+| ISSAHAKU ABDULLAH | Testing lead | Runs the application with test numbers to check for bugs and takes terminal screenshots |
+| KYAMASI OWUSU AGYEMANG | GitHub manager | Manages the team's cloud folder and organizes all uploaded project files |
+| STEPHEN EHWIE | Documentation lead | Gathers all the team's files and writes the final report summary (`README.md`) |
+| FREDERICK AIDOO | Presentation lead | Organizes the slides and coordinates who speaks during the presentation defense |
+
+
 
 **CONCLUSION**  
 
